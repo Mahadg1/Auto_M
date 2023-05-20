@@ -29,8 +29,3 @@ driver.switch_to.window(parentguid)
 
       #assert "Connect with LambdaTest on Facebook" in ele
 driver.quit()
-    
-      
-     
-
-driver.quit()
